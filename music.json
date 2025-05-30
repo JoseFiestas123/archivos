@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      
+       "bg": "#010108",
+      "artist": "Wanna be Yours",
+      "songName": "AM",
+      "files": {
+        "song": "sound/iwanna.mp3",
+        "cover": "https://i.ytimg.com/vi/T3eucvW8Fm0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCKiVcHRmASl1xJn1Q3n-Ll0YHkSg"
+      }
+    },
+    {
+     "bg": "#000",
+      "artist": "Mi mujer",
+      "songName": "Belén",
+      "files": {
+        "song": "https://github.com/JoseFiestas123/archivos/blob/master/wanna.mp3",
+        "cover": "sound/imagen.jpg  "
+      }
+    },
+    {
+      "bg": "#010108",
+      "artist": "Do I Wanna Know?",
+      "songName": "AM",
+      "files": {
+       "song": "sound/wanna.mp3",
+       "cover": "https://th.bing.com/th/id/R.fb09e787cecf1d9449681de5cc0db360?rik=fsy6ZVsUq%2b530A&pid=ImgRaw&r=0"
+      }
+    }
+  ]
+}
